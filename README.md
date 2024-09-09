@@ -11,7 +11,7 @@ It comes in 3 variant:
 
 # usage
 
-Just copy the .tlf files in /usr/share/figlet. You then can use, e.g.
+Just copy the .flf files in /usr/share/figlet. You then can use, e.g.
 
 figlet -f bodro "Sample text!"
 
