@@ -9,6 +9,12 @@ It comes in 3 variant:
 
   * dobodro: DOuble line BOx DRAwing
 
+# usage
+
+Just copy the .tlf files in /usr/share/figlet. You then can use, e.g.
+
+figlet -f bodro "Sample text!"
+
 # previews
 normal:
 
