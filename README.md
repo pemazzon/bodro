@@ -11,11 +11,14 @@ It comes in 3 variant:
 
 # previews
 normal:
+
 ![bodro preview](https://github.com/pemazzon/bodro/blob/main/bodro-preview.png)
 
 bold:
+
 ![bodrobold preview](https://github.com/pemazzon/bodro/blob/main/bodrobold-preview.png)
 
 double lines:
+
 ![dobodro preview](https://github.com/pemazzon/bodro/blob/main/dobodro-preview.png)
 
