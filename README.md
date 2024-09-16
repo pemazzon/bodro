@@ -16,15 +16,15 @@ Just copy the .flf files in /usr/share/figlet. You then can use, e.g.
 figlet -f bodro "Sample text!"
 
 # previews
-normal:
+bodro (normal):
 
 ![bodro preview](https://github.com/pemazzon/bodro/blob/main/bodro-preview.png)
 
-bold:
+bodrobold:
 
 ![bodrobold preview](https://github.com/pemazzon/bodro/blob/main/bodrobold-preview.png)
 
-double lines:
+dobodro (double lines):
 
 ![dobodro preview](https://github.com/pemazzon/bodro/blob/main/dobodro-preview.png)
 
