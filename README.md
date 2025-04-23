@@ -13,7 +13,7 @@ It comes in 3 variant:
 
 Just copy the .flf files in /usr/share/figlet. You then can use, e.g.
 
-figlet -f bodro "Sample text!"
+figlet -f bodro 'Sample text!'
 
 # previews
 bodro (normal):
