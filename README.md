@@ -31,4 +31,3 @@ bodrobold:
 dobodro (double lines):
 
 ![dobodro preview](https://github.com/pemazzon/bodro/blob/main/dobodro-preview.png)
-
